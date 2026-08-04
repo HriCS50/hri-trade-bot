@@ -1,0 +1,11 @@
+name = "hri-trade-bot"
+main = "src/index.js"
+compatibility_date = "2026-08-04"
+
+# Secrets (set these with `wrangler secret put <NAME>`, never commit them):
+#   TELEGRAM_BOT_TOKEN   - from @BotFather
+#   TELEGRAM_WEBHOOK_SECRET - a random string you choose, used to verify
+#                             incoming requests really come from Telegram
+#   GEMINI_API_KEY       - from Google AI Studio (aistudio.google.com/apikey)
+#   DATA_URL              - raw.githubusercontent.com URL to your data/countries.json
+#                            e.g. https://raw.githubusercontent.com/<you>/<repo>/main/data/countries.json

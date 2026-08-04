@@ -1,0 +1,22 @@
+{
+  "source": "https://trade-analytics.commerce.gov.in/public/country",
+  "lastUpdated": "2026-08-04T00:00:00Z",
+  "note": "Seed data (1 verified record). The 'Scrape TIA data' GitHub Action will overwrite this file with the full country list on its first run.",
+  "countries": [
+    {
+      "country": "United States of America",
+      "rankInExport": 1,
+      "rankInImport": 4,
+      "totalExportUSDMillion": 92288.06,
+      "totalImportUSDMillion": 50297.60,
+      "tradeBalanceUSDMillion": 41990.45,
+      "exportGrowthPercent": 14.25,
+      "topExportCommodity": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts",
+      "topExportCommodityValueUSDMillion": 25773.87,
+      "topImportCommodity": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",
+      "topImportCommodityValueUSDMillion": 16906.71,
+      "shareInIndiaImportPercent": 6.66,
+      "shareInIndiaExportPercent": 20.74
+    }
+  ]
+}

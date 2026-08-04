@@ -1,0 +1,39 @@
+name: Scrape TIA data
+
+on:
+  schedule:
+    # Every Monday at 03:00 UTC (~08:30 IST). TIA data itself only updates monthly,
+    # so weekly is plenty - cheap to run more often, cheap to leave as-is.
+    - cron: "0 3 * * 1"
+  workflow_dispatch: {} # lets you trigger this manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: npm install
+
+      - name: Install Playwright browser
+        working-directory: scraper
+        run: npx playwright install --with-deps chromium
+
+      - name: Run scraper
+        working-directory: scraper
+        run: npm run scrape
+
+      - name: Commit updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh TIA trade data"
+          file_pattern: data/countries.json
