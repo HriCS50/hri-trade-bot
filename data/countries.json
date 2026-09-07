@@ -1,7 +1,7 @@
 {
   "source": "https://trade-analytics.commerce.gov.in/public/country",
-  "lastUpdated": "2026-08-31T10:03:39.855Z",
-  "note": "Scraped 63/240 countries. Failed: Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Is., Central African Republic, Chad, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Comoros, Congo, Cook Islands, Costa Rica, Curacao, Denmark, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Eq. Guinea, Eritrea, Estonia, Ethiopia, Falkland Islands, Faroe Islands, Fiji, Finland, France, French Guiana, French Polynesia, Greenland, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iran, Iraq, Jersey, Kazakhstan, Kenya, Kiribati, Korea (north), Korea (south), Kuwait, Kyrgyzstan, Lao PDR, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, China, Martinique, Mauritania, Mauritius, Mayotte, Mexico, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, Niue Island, N. Mariana Is., Norfolk Island, North Macedonia, Norway, Oman, Other Countries, Pakistan, Palestine, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Pitcairn Islands, Poland, Portugal, Puerto Rico, Qatar, Saint Helena, Saint Lucia, Saint Pierre and Miquelon, Saint Vincent and Grenadines, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Slovakia, Slovenia, Solomon Is., Somalia, South Africa, Svalbard, Sweden, Switzerland, Syrian Arab Republic (Syria), Taiwan, Tajikistan, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Tuvalu, Uganda, Ukraine, United Arab Emirates, Vietnam, Virgin Islands (UK), Virgin Islands (US), Wallis and Futuna, Western Sahara, World, Yemen, Zambia, Zimbabwe",
+  "lastUpdated": "2026-09-07T08:38:20.617Z",
+  "note": "Scraped 64/240 countries. Failed: Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Is., Central African Republic, Chad, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Comoros, Congo, Cook Islands, Costa Rica, Cote D' Ivoire, Curacao, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Eq. Guinea, Eritrea, Estonia, Ethiopia, Falkland Islands, Faroe Islands, Fiji, Finland, France, French Guiana, French Polynesia, Gabon, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iran, Iraq, Ireland, Jersey, Kenya, Kiribati, Korea (north), Korea (south), Kuwait, Kyrgyzstan, Lao PDR, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, China, Madagascar, Mauritania, Mauritius, Mayotte, Mexico, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, Niue Island, N. Mariana Is., Norfolk Island, North Macedonia, Norway, Oman, Other Countries, Pakistan, Palestine, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Pitcairn Islands, Poland, Portugal, Puerto Rico, Qatar, Republic of Palau, Saint Helena, Saint Pierre and Miquelon, Saint Vincent and Grenadines, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Slovakia, Slovenia, Solomon Is., Somalia, South Africa, Spain, Svalbard, Switzerland, Syrian Arab Republic (Syria), Taiwan, Tajikistan, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Tuvalu, Uganda, Ukraine, United Arab Emirates, Vietnam, Virgin Islands (UK), Virgin Islands (US), Wallis and Futuna, Western Sahara, World, Yemen, Zambia, Zimbabwe",
   "countries": [
     {
       "country": "Afghanistan",
@@ -184,19 +184,19 @@
       "topImportCommodityValueUSDMillion": 37.12
     },
     {
-      "country": "Cote D' Ivoire",
-      "rankInExport": 65,
-      "rankInImport": 72,
-      "totalExportUSDMillion": 935.89,
-      "totalImportUSDMillion": 622,
-      "tradeBalanceUSDMillion": 313.89,
-      "exportGrowthPercent": 3.21,
-      "shareInIndiaImportPercent": 0.08,
-      "shareInIndiaExportPercent": 0.21,
-      "topExportCommodity": "10-Cereals.",
-      "topExportCommodityValueUSDMillion": 396.63,
-      "topImportCommodity": "40-Rubber and articles thereof.",
-      "topImportCommodityValueUSDMillion": 283.5
+      "country": "Burkina Faso",
+      "rankInExport": 124,
+      "rankInImport": 84,
+      "totalExportUSDMillion": 145,
+      "totalImportUSDMillion": 279.86,
+      "tradeBalanceUSDMillion": -134.85,
+      "exportGrowthPercent": -6.15,
+      "shareInIndiaImportPercent": 0.04,
+      "shareInIndiaExportPercent": 0.03,
+      "topExportCommodity": "30-Pharmaceutical products",
+      "topExportCommodityValueUSDMillion": 45.73,
+      "topImportCommodity": "71-Natural or cultured pearls,precious or semiprecious stones,pre.metals,clad with pre.metal and artcls thereof;imit.jewlry;coin.",
+      "topImportCommodityValueUSDMillion": 141.37
     },
     {
       "country": "Croatia",
@@ -274,19 +274,19 @@
       "topImportCommodityValueUSDMillion": 96.74
     },
     {
-      "country": "Gabon",
-      "rankInExport": 141,
-      "rankInImport": 75,
-      "totalExportUSDMillion": 89.19,
-      "totalImportUSDMillion": 572.31,
-      "tradeBalanceUSDMillion": -483.13,
-      "exportGrowthPercent": -3.63,
-      "shareInIndiaImportPercent": 0.08,
-      "shareInIndiaExportPercent": 0.02,
-      "topExportCommodity": "87-Vehicles other than railway or tramway rolling stock, and parts and accessories thereof.",
-      "topExportCommodityValueUSDMillion": 11.53,
-      "topImportCommodity": "26-Ores, slag and ash.",
-      "topImportCommodityValueUSDMillion": 253.09
+      "country": "Denmark",
+      "rankInExport": 63,
+      "rankInImport": 61,
+      "totalExportUSDMillion": 968.54,
+      "totalImportUSDMillion": 887.74,
+      "tradeBalanceUSDMillion": 80.79,
+      "exportGrowthPercent": 9.28,
+      "shareInIndiaImportPercent": 0.12,
+      "shareInIndiaExportPercent": 0.22,
+      "topExportCommodity": "62-Articles of apparel and clothing accessories, not knitted or crocheted.",
+      "topExportCommodityValueUSDMillion": 154.4,
+      "topImportCommodity": "30-Pharmaceutical products",
+      "topImportCommodityValueUSDMillion": 275.62
     },
     {
       "country": "Gambia",
@@ -379,19 +379,19 @@
       "topImportCommodityValueUSDMillion": 33.44
     },
     {
-      "country": "Ireland",
-      "rankInExport": 68,
-      "rankInImport": 23,
-      "totalExportUSDMillion": 862.03,
-      "totalImportUSDMillion": 8002.54,
-      "tradeBalanceUSDMillion": -7140.51,
-      "exportGrowthPercent": 3.27,
-      "shareInIndiaImportPercent": 1.06,
-      "shareInIndiaExportPercent": 0.19,
-      "topExportCommodity": "29-Organic chemicals",
-      "topExportCommodityValueUSDMillion": 202.54,
-      "topImportCommodity": "85-Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers,and parts.",
-      "topImportCommodityValueUSDMillion": 7037.25
+      "country": "Greenland",
+      "rankInExport": 216,
+      "rankInImport": 213,
+      "totalExportUSDMillion": 0.24,
+      "totalImportUSDMillion": 0.01,
+      "tradeBalanceUSDMillion": 0.23,
+      "exportGrowthPercent": 20.66,
+      "shareInIndiaImportPercent": 0,
+      "shareInIndiaExportPercent": 0,
+      "topExportCommodity": "03-Fish and crustaceans, molluscs and other aquatic invertabrates.",
+      "topExportCommodityValueUSDMillion": 0.17,
+      "topImportCommodity": "84-Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof.",
+      "topImportCommodityValueUSDMillion": 0.01
     },
     {
       "country": "Israel",
@@ -469,19 +469,19 @@
       "topImportCommodityValueUSDMillion": 808.93
     },
     {
-      "country": "Madagascar",
-      "rankInExport": 103,
-      "rankInImport": 102,
-      "totalExportUSDMillion": 293.64,
-      "totalImportUSDMillion": 161.76,
-      "tradeBalanceUSDMillion": 131.88,
-      "exportGrowthPercent": 19.43,
-      "shareInIndiaImportPercent": 0.02,
-      "shareInIndiaExportPercent": 0.07,
-      "topExportCommodity": "10-Cereals.",
-      "topExportCommodityValueUSDMillion": 97.48,
-      "topImportCommodity": "09-Coffee, tea, mate and spices.",
-      "topImportCommodityValueUSDMillion": 77.37
+      "country": "Kazakhstan",
+      "rankInExport": 117,
+      "rankInImport": 114,
+      "totalExportUSDMillion": 197.15,
+      "totalImportUSDMillion": 101.26,
+      "tradeBalanceUSDMillion": 95.89,
+      "exportGrowthPercent": -24.84,
+      "shareInIndiaImportPercent": 0.01,
+      "shareInIndiaExportPercent": 0.04,
+      "topExportCommodity": "30-Pharmaceutical products",
+      "topExportCommodityValueUSDMillion": 86.73,
+      "topImportCommodity": "71-Natural or cultured pearls,precious or semiprecious stones,pre.metals,clad with pre.metal and artcls thereof;imit.jewlry;coin.",
+      "topImportCommodityValueUSDMillion": 67.55
     },
     {
       "country": "Malawi",
@@ -574,6 +574,21 @@
       "topImportCommodityValueUSDMillion": 1.76
     },
     {
+      "country": "Martinique",
+      "rankInExport": 187,
+      "rankInImport": 182,
+      "totalExportUSDMillion": 6.15,
+      "totalImportUSDMillion": 1.34,
+      "tradeBalanceUSDMillion": 4.81,
+      "exportGrowthPercent": 25.56,
+      "shareInIndiaImportPercent": 0,
+      "shareInIndiaExportPercent": 0,
+      "topExportCommodity": "03-Fish and crustaceans, molluscs and other aquatic invertabrates.",
+      "topExportCommodityValueUSDMillion": 3.29,
+      "topImportCommodity": "72-Iron and steel",
+      "topImportCommodityValueUSDMillion": 1.06
+    },
+    {
       "country": "Netherlands Antilles",
       "rankInExport": 162,
       "rankInImport": 161,
@@ -664,21 +679,6 @@
       "topImportCommodityValueUSDMillion": 4818.07
     },
     {
-      "country": "Republic of Palau",
-      "rankInExport": 215,
-      "rankInImport": 0.27,
-      "totalExportUSDMillion": 0.27,
-      "totalImportUSDMillion": 0,
-      "tradeBalanceUSDMillion": 0.27,
-      "exportGrowthPercent": 11.75,
-      "shareInIndiaImportPercent": 0,
-      "shareInIndiaExportPercent": 0,
-      "topExportCommodity": "30-Pharmaceutical products",
-      "topExportCommodityValueUSDMillion": 0.11,
-      "topImportCommodity": "Share in India (Import)%",
-      "topImportCommodityValueUSDMillion": 0
-    },
-    {
       "country": "Reunion",
       "rankInExport": 153,
       "rankInImport": 139,
@@ -754,19 +754,19 @@
       "topImportCommodityValueUSDMillion": 0.2
     },
     {
-      "country": "Spain",
-      "rankInExport": 18,
-      "rankInImport": 43,
-      "totalExportUSDMillion": 6560.93,
-      "totalImportUSDMillion": 2280.62,
-      "tradeBalanceUSDMillion": 4280.31,
-      "exportGrowthPercent": 34.55,
-      "shareInIndiaImportPercent": 0.3,
-      "shareInIndiaExportPercent": 1.48,
-      "topExportCommodity": "27-Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes.",
-      "topExportCommodityValueUSDMillion": 1385.65,
-      "topImportCommodity": "84-Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof.",
-      "topImportCommodityValueUSDMillion": 345.42
+      "country": "Saint Lucia",
+      "rankInExport": 182,
+      "rankInImport": 170,
+      "totalExportUSDMillion": 9.05,
+      "totalImportUSDMillion": 2.24,
+      "tradeBalanceUSDMillion": 6.81,
+      "exportGrowthPercent": -15.21,
+      "shareInIndiaImportPercent": 0,
+      "shareInIndiaExportPercent": 0,
+      "topExportCommodity": "30-Pharmaceutical products",
+      "topExportCommodityValueUSDMillion": 2.01,
+      "topImportCommodity": "74-Copper and articles thereof.",
+      "topImportCommodityValueUSDMillion": 0.97
     },
     {
       "country": "Sri Lanka",
@@ -842,6 +842,21 @@
       "topExportCommodityValueUSDMillion": 5.02,
       "topImportCommodity": "71-Natural or cultured pearls,precious or semiprecious stones,pre.metals,clad with pre.metal and artcls thereof;imit.jewlry;coin.",
       "topImportCommodityValueUSDMillion": 18.88
+    },
+    {
+      "country": "Sweden",
+      "rankInExport": 46,
+      "rankInImport": 45,
+      "totalExportUSDMillion": 1358.49,
+      "totalImportUSDMillion": 2118.55,
+      "tradeBalanceUSDMillion": -760.05,
+      "exportGrowthPercent": 11.13,
+      "shareInIndiaImportPercent": 0.28,
+      "shareInIndiaExportPercent": 0.31,
+      "topExportCommodity": "85-Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers,and parts.",
+      "topExportCommodityValueUSDMillion": 315.52,
+      "topImportCommodity": "74-Copper and articles thereof.",
+      "topImportCommodityValueUSDMillion": 444.48
     },
     {
       "country": "United Kingdom",
