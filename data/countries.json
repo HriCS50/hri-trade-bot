@@ -1,7 +1,7 @@
 {
   "source": "https://trade-analytics.commerce.gov.in/public/country",
-  "lastUpdated": "2026-09-28T10:05:08.008Z",
-  "note": "Scraped 64/240 countries. Failed: Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Is., Central African Republic, Chad, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Comoros, Congo, Cook Islands, Costa Rica, Cote D' Ivoire, Curacao, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Eq. Guinea, Eritrea, Estonia, Ethiopia, Falkland Islands, Faroe Islands, Fiji, Finland, France, French Guiana, French Polynesia, Gabon, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iran, Iraq, Ireland, Israel, Jersey, Kiribati, Korea (north), Korea (south), Kuwait, Kyrgyzstan, Lao PDR, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, China, Madagascar, Malawi, Malaysia, Mayotte, Mexico, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, Netherlands Antilles, New Caledonia, New Zealand, Niue Island, Norway, Oman, Other Countries, Pakistan, Palestine, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Pitcairn Islands, Poland, Portugal, Puerto Rico, Qatar, Republic of Palau, Reunion, Romania, Saint Helena, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Slovakia, Slovenia, Solomon Is., Somalia, South Africa, Spain, Sri Lanka, S. Sudan, Sudan, Svalbard, Tajikistan, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom, United Republic of Tanzania, United States of America, Uruguay, Western Sahara, World, Yemen, Zambia, Zimbabwe",
+  "lastUpdated": "2026-10-05T10:44:23.598Z",
+  "note": "Scraped 64/240 countries. Failed: Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Burundi, Cambodia, Cameroon, Canada, Cape Verde, Cayman Is., Central African Republic, Chad, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Comoros, Congo, Cook Islands, Costa Rica, Cote D' Ivoire, Curacao, Djibouti, Dominica, Dominican Rep., Ecuador, Egypt, El Salvador, Eq. Guinea, Eritrea, Estonia, Ethiopia, Falkland Islands, Faroe Islands, Fiji, Finland, France, French Guiana, French Polynesia, Gabon, Gambia, Guadeloupe, Guam, Guatemala, Guernsey, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See (Vatican City State), Honduras, Hong Kong, Hungary, Iceland, Indonesia, Iran, Iraq, Ireland, Israel, Jersey, Kiribati, Korea (north), Korea (south), Kuwait, Kyrgyzstan, Lao PDR, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, China, Madagascar, Malawi, Malaysia, Mayotte, Mexico, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, Netherlands Antilles, New Caledonia, New Zealand, Niue Island, Norway, Oman, Other Countries, Pakistan, Palestine, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Pitcairn Islands, Poland, Portugal, Puerto Rico, Qatar, Republic of Palau, Reunion, Romania, Saint Helena, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten, Slovakia, Slovenia, Solomon Is., Somalia, South Africa, Spain, Sri Lanka, S. Sudan, Sudan, Svalbard, Tajikistan, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom, United Republic of Tanzania, United States of America, Wallis and Futuna, Western Sahara, World, Yemen, Zambia, Zimbabwe",
   "countries": [
     {
       "country": "Afghanistan",
@@ -289,21 +289,6 @@
       "topImportCommodityValueUSDMillion": 275.62
     },
     {
-      "country": "Gambia",
-      "rankInExport": 131,
-      "rankInImport": 124,
-      "totalExportUSDMillion": 116.57,
-      "totalImportUSDMillion": 69.96,
-      "tradeBalanceUSDMillion": 46.61,
-      "exportGrowthPercent": -9.94,
-      "shareInIndiaImportPercent": 0.01,
-      "shareInIndiaExportPercent": 0.03,
-      "topExportCommodity": "10-Cereals.",
-      "topExportCommodityValueUSDMillion": 26.73,
-      "topImportCommodity": "08-Edible fruit and nuts; peel or citrus fruit or melons.",
-      "topImportCommodityValueUSDMillion": 54.75
-    },
-    {
       "country": "Georgia",
       "rankInExport": 104,
       "rankInImport": 116,
@@ -392,6 +377,21 @@
       "topExportCommodityValueUSDMillion": 0.17,
       "topImportCommodity": "84-Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof.",
       "topImportCommodityValueUSDMillion": 0.01
+    },
+    {
+      "country": "Grenada",
+      "rankInExport": 188,
+      "rankInImport": 189,
+      "totalExportUSDMillion": 5.96,
+      "totalImportUSDMillion": 0.54,
+      "tradeBalanceUSDMillion": 5.42,
+      "exportGrowthPercent": 35.58,
+      "shareInIndiaImportPercent": 0,
+      "shareInIndiaExportPercent": 0,
+      "topExportCommodity": "87-Vehicles other than railway or tramway rolling stock, and parts and accessories thereof.",
+      "topExportCommodityValueUSDMillion": 1.63,
+      "topImportCommodity": "09-Coffee, tea, mate and spices.",
+      "topImportCommodityValueUSDMillion": 0.49
     },
     {
       "country": "Italy",
@@ -859,6 +859,21 @@
       "topImportCommodityValueUSDMillion": 3949.66
     },
     {
+      "country": "Uruguay",
+      "rankInExport": 111,
+      "rankInImport": 86,
+      "totalExportUSDMillion": 226.79,
+      "totalImportUSDMillion": 271.27,
+      "tradeBalanceUSDMillion": -44.48,
+      "exportGrowthPercent": -15.76,
+      "shareInIndiaImportPercent": 0.04,
+      "shareInIndiaExportPercent": 0.05,
+      "topExportCommodity": "87-Vehicles other than railway or tramway rolling stock, and parts and accessories thereof.",
+      "topExportCommodityValueUSDMillion": 55.42,
+      "topImportCommodity": "27-Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes.",
+      "topImportCommodityValueUSDMillion": 137.13
+    },
+    {
       "country": "Uzbekistan",
       "rankInExport": 79,
       "rankInImport": 147,
@@ -947,21 +962,6 @@
       "topExportCommodityValueUSDMillion": 13.34,
       "topImportCommodity": "71-Natural or cultured pearls,precious or semiprecious stones,pre.metals,clad with pre.metal and artcls thereof;imit.jewlry;coin.",
       "topImportCommodityValueUSDMillion": 0.26
-    },
-    {
-      "country": "Wallis and Futuna",
-      "rankInExport": 228,
-      "rankInImport": 0.01,
-      "totalExportUSDMillion": 0.01,
-      "totalImportUSDMillion": 0,
-      "tradeBalanceUSDMillion": 0.01,
-      "exportGrowthPercent": 2024,
-      "shareInIndiaImportPercent": 0,
-      "shareInIndiaExportPercent": 0,
-      "topExportCommodity": "95-Toys, games and sports requisites; parts and accessories thereof.",
-      "topExportCommodityValueUSDMillion": 0.01,
-      "topImportCommodity": "Share in India (Import)%",
-      "topImportCommodityValueUSDMillion": 0
     }
   ]
 }
